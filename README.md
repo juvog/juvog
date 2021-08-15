@@ -1,5 +1,5 @@
 <strong>
-I'm a student full-stack student developer since 2020 sept.
+I'm a full-stack student developer since 2020 sept.
 </strong>
 
 :office_worker: I’m currently looking for a job training.</br>
